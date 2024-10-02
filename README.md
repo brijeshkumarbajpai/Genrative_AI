@@ -1,1 +1,1 @@
-# Genrative_AI
+# Genrative_AI_App
